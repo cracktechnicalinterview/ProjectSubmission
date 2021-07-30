@@ -1,0 +1,8 @@
+.MainLayout__container {
+    width: 600px;
+    height: 237px;
+    border-radius: 8px;
+    border: 1px solid #DADCE0;
+
+    margin: 50px;
+}

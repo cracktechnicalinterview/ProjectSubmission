@@ -1,0 +1,22 @@
+.body__container {
+    height:127px;
+    width: 600px;
+}
+.body__timerText {
+    padding-top: 25px;
+    padding-left: 24px;
+    color: #222222;
+}
+.body__min {
+    font-size:62px;
+}
+.body__mintext {
+    font-size:28px;
+}
+.body__sec {
+    margin-left: 20px;
+    font-size:35px;
+}
+.body__sectext {
+    font-size:28px;
+}
